@@ -45,7 +45,7 @@ permissions:
 
 jobs:
   deploy:
-    name: Deploy1
+    name: Deploy12
     runs-on: ubuntu-latest
     environment: production
 
